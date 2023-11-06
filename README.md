@@ -1,0 +1,1 @@
+A simple social media application created using springboot. The features include the ability of an user to have profile picture, having followers, uploading posts along with liking the post and commenting on the post.
